@@ -1,0 +1,16 @@
+1.upload database ke phpmyadmin filenya dbarsib.sql
+2.buka folder web nya terus masuk ke
+aplication->config->database.php lalu ubah password nya samain kaya punya kalia
+3.terus coba jalanin
+kalo masih error hubungi nomor berikut 0895378315570 an Muhammad Mietakhul ulum
+
+sekian dari saya jika ada salah kata atau tindakan saya ucapkan terimakasih
+assalamualaikum wrb
+											
+														
+															Yogyakarta,11 November 2020
+															
+															
+															
+															
+															Muhammad Mietakhul Ulum

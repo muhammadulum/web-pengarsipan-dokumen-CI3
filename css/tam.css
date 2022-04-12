@@ -1,0 +1,31 @@
+*
+{
+    padding: 0;
+    margin: 0;
+}
+body {     
+    background-color:#2c3e50;
+    font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color:#fff;
+}
+
+/*css untuk menu hover dropdown*/
+nav ul li:hover .sub1 {display:block}
+nav ul .sub1 {
+    display:none;
+    position:absolute;
+    margin-top: :15px;
+    margin-left: :-15px;
+    background-color:#157fda;
+}
+.sub1 a:hover 
+{ display: block;
+    margin: 20px;
+ }
+.sub1 a:hover 
+{ width: 200px;
+  padding: 10px;
+  border-bottom: 1px dotted #fff;
+  background: transparent;
+  border-radius: 0;
+  text-align: left; }
